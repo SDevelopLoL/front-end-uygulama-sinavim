@@ -1,0 +1,7 @@
+***İstenilenler***
+
+- Onepage ve responsive tasarım yapısı
+- Menü geçişlerinde agır çekim kaydırma efekti
+- Sayfa kaydırılınca görünen "yukarı çık" ikonu. Javascript ile ağır çekim kaydırma.
+- Mobil görünümde hamburger menü açıkken sayfanın herhangi bir yeri tıklandığında menünün kapanması.
+- Form öğelerinin javascript ile kontrolü
